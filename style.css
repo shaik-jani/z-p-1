@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    text-decoration: none;
+    list-style-type: none;
+    box-sizing: border-box;
+}
+.borderline{
+    width: 2%;
+    background: #000;
+    height: 2px;
+    margin-bottom: 20px;
+}
+.border-line{
+    width: 2%;
+    background: #000;
+    height: 2px;
+    margin-bottom: 20px;
+}
+.borderlline{
+    width: 100%;
+    background: #000;
+    height: 2px;
+    margin-bottom: 50px;
+}
